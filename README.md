@@ -17,7 +17,7 @@
 ## 🔥 Contribution
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=frank-pv&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frank-pv&theme=tokyonight" />
 </p>
 
 ---

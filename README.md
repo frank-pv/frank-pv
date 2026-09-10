@@ -11,13 +11,3 @@
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=frank-pv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=frank-pv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔥 Contribution
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frank-pv&theme=tokyonight" />
-</p>
-
----
